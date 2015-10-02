@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    font-size: 75px;
+    font-family: Courier;
+
+    /*font-weight: bold;*/
+    letter-spacing: 20px;
+    color: #191919;
+    padding: 15px 0 10px;
+    margin-bottom: 55px;
+}
+
+h3{
+    color:#338585;
+    font-family: "Book Antiqua";
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    margin: 51px 0 23px 0;
+}
+p{
+    font-family: "Book Antiqua";
+    font-weight: bold;
+    color: #4C4C33;
+    margin: 0 200px 35px 200px;
+
+}
+
+ .carousel-control{
+     width: 238px;
+     height: 240px;
+     color: #191919;
+     text-align: center;
+     text-shadow: none;
+
+}
+.carousel-indicators li{
+    /*margin-top: 600px;*/
+    /*color: #00B7FF;*/
+    border: 3px solid #338585;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: -100px;
+    left: 50%;
+    z-index: 15;
+    width: 60%;
+    padding-left: 0;
+    margin-left: -30%;
+    text-align: center;
+    list-style: none;
+
+}
+
